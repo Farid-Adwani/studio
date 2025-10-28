@@ -1,0 +1,10 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero-background",
+      "description": "The Great Mosque of Kairouan, also known as the Mosque of Uqba.",
+      "imageUrl": "https://as1.ftcdn.net/jpg/02/96/38/50/1000_F_296385072_cO6aFP65BdWywnvNFy0hzFvSiNT5nU7F.jpg",
+      "imageHint": "kairouan mosque"
+    }
+  ]
+}
