@@ -83,7 +83,7 @@ export default function Home() {
       toast({
         variant: 'destructive',
         title: 'Incorrect Code',
-        description: 'Theeee code is not correct. Please try again.'+ correctCodeHash + "  " +enteredCodeHash,
+        description: 'Theeee code is not correct. Please try again.',
       });
       setCode(Array(5).fill(''));
       inputsRef.current[0]?.focus();
