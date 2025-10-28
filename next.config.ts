@@ -1,7 +1,9 @@
-import type {NextConfig} from 'next';
+import type { NextConfig } from 'next';
 
 const nextConfig: NextConfig = {
   output: 'export',
+  basePath: '/studio',       // 👈 your repo name here
+  assetPrefix: '/studio/',
   /* config options here */
   typescript: {
     ignoreBuildErrors: true,
